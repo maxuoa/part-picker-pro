@@ -42,6 +42,9 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+
+    // https://go.nuxtjs.dev/vuetify
+    '@nuxtjs/vuetify',
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
